@@ -1,0 +1,28 @@
+Year 2015 - Spring Semester - CS 101
+
+Group Number:288
+
+Project Title: Brave Brick
+
+Team Members:
+
+Sushmendra Kumar Singh - 140040080 (Team Leader)
+
+Arun Kumar Kadaganchi - 140040101
+
+Balu Rajendra Prasad - 140040091
+
+Dharan Kondaveeti - 140040110
+
+Instructions to run our program:
+
+Download simple codeblocks from http://www.cse.iitb.ac.in/~ranade/simplecpp/. Follow the instructions and install the program.
+
+Download the files BraveBrick.cpp, BraveBrick.exe.
+
+Run the BraveBrick.exe file to play the game.
+
+Youtube URL for our game's video tutorial: https://www.youtube.com/watch?v=GYsXU5Z0MYw
+
+
+
